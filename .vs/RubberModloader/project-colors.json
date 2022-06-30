@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5e4da59b-6468-4ab6-bdc8-d56ad7cc4781": {
+      "ProjectGuid": "5e4da59b-6468-4ab6-bdc8-d56ad7cc4781",
+      "DisplayName": "RubberModloader",
+      "ColorIndex": 0
+    },
+    "628c2650-366e-4671-8f4f-3c024d44145e": {
+      "ProjectGuid": "628c2650-366e-4671-8f4f-3c024d44145e",
+      "DisplayName": "RubberInjector",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}
